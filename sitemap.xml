@@ -6,26 +6,58 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
                  <loc>index.html</loc>
-                 <lastmod>2023-11-09T10:54:09+00:00</lastmod>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news.html</loc>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/how-to-insert-schema-in-wordpress-pages.html</loc>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/how-i-ranked-number-one-in-24-hours-using-parasite-seo-jesper-nissen-seo.html</loc>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/how-to-create-a-wakelet-collection-jesper-nissen-seo.html</loc>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/twitter-moments-alternative-wakelet-collections.html</loc>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/how-i-ranked-1-on-google-in-30-minutes-by-doing-youtube-seo.html</loc>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/how-to-use-twitter-moments-for-local-seo.html</loc>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/what-is-cloud-stacking-seo.html</loc>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>privacy-policy.html</loc>
-                 <lastmod>2023-11-09T10:54:09+00:00</lastmod>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>feed.xml</loc>
-                 <lastmod>2023-11-09T10:54:09+00:00</lastmod>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.xml</loc>
-                 <lastmod>2023-11-09T10:54:09+00:00</lastmod>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.html</loc>
-                 <lastmod>2023-11-09T10:54:09+00:00</lastmod>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>about-us.html</loc>
-                 <lastmod>2023-11-09T10:54:09+00:00</lastmod>
+                 <lastmod>2024-01-02T15:01:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
